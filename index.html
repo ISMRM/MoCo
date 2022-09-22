@@ -2,11 +2,14 @@
 layout: default
 ---
 
-<div class="posts">
-  <div style="background: #E1F5A9; padding: 1em; border-radius: 1em; border: 2px solid #74DF00">
-      The content for this website is maintained by the
-      ISMRM Study Group for Detection and Correction of Motion in MRI / MRS on Github at <a href="https://github.com/ISMRM/MoCo">https://github.com/ISMRM/MoCo</a>
-  </div>    
+<div style="background: #E1F5A9; padding: 1em; border-radius: 1em; border: 2px solid #74DF00">
+  The content for this website is maintained by the
+  ISMRM Study Group for Detection and Correction of Motion in MRI / MRS on Github at <a href="https://github.com/ISMRM/MoCo">https://github.com/ISMRM/MoCo</a>
+</div>  
+
+
+<!-- can use the following bit if we have blog posts...  -->
+<!-- <div class="posts">   
   {% for post in site.posts %}
     <article class="post">
 
@@ -21,4 +24,15 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+</div> -->
+
+<div class="page">
+  <ul>
+  <li>Seminar recordings from the Virtual Seminars:<a href=https://bit.ly/moco-sg-seminars>https://bit.ly/moco-sg-seminars</a></li>
+
+  <li>Stefan Skare's MoCo Database: <a href=http://34.88.15.16/webapps/home/>http://34.88.15.16/webapps/home/</a></li>
+  
+  <li>"Hand's on motion estimation and correction" by Gastao Cruz and Thomas Kuestner, created for the ISMRM MoCo Workshop, Oxford, Aug/Sep 2022 
+  <a href=https://github.com/lab-midas/ismrm-moco-workshop>https://github.com/lab-midas/ismrm-moco-workshop</a></li>
+  </ul>
 </div>
