@@ -18,5 +18,3 @@ The current committee for the RRSG (2021/2022):
 </table>
 
 
-An attempt at a video example:
-<iframe src="https://drive.google.com/file/d/1PhgdOkLpredzAFHnw12_bo4O0wvZik_m/view?usp=drive_link" width="640" height="480" allow="autoplay"></iframe>
