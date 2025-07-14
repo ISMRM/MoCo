@@ -4,17 +4,15 @@ title: About
 permalink: /about/
 ---
 
-An online presence for the [ISMRM Study Group for the Detection and Correction of Motion in MRI/MRS](https://groups.ismrm.org/detection-and-correction-of-motion-in-mri-and-mrs/) where we can provide information about our activities and future projects can be discussed.
+An online presence for the [ISMRM Study Group for Motion Detection and Correction](https://groups.ismrm.org/motion-detection-correction/) where we can provide information about our activities and future projects can be discussed.
 
-The current committee for the RRSG (2021/2022):
+The current committee (2025/2026):
 
 <table class="TFtable" style="width:80%">
-  <tr><td align="right"><strong> Chair </strong></td><td> Aaron Hess </td></tr>                                                  
-  <tr><td align="right"><strong> Vice-chair </strong></td><td> Tess Wallace </td></tr>   
-  <tr><td align="right"><strong> Secretary </strong></td><td> Gastao Cruz </td></tr>    
-  <tr><td align="right"><strong> ISMRT Rep </strong></td><td> Kristina Pelkola </td></tr>    
-  <tr><td align="right"><strong><em> Past-chair </em></strong></td><td> Daniel Gallichan </td></tr>
-  <tr><td align="right"><strong> Trainee Representative </strong></td><td> Viljami Sairanen </td></tr>    
+  <tr><td align="right"><strong> Chair </strong></td><td> Adam M.J. van Niekerk </td></tr>                                                  
+  <tr><td align="right"><strong> Vice-chair </strong></td><td> Thomas Küstner </td></tr>   
+  <tr><td align="right"><strong> Secretary </strong></td><td> Melanie Ganz-Benjaminse </td></tr>    
+  <tr><td align="right"><strong> ISMRT Rep </strong></td><td> wanted </td></tr>    
+  <tr><td align="right"><strong><em> Past-chair </em></strong></td><td> Gastao J. L. Cruz </td></tr>
+  <tr><td align="right"><strong> Trainee Representative </strong></td><td> Aya Ghoul </td></tr>    
 </table>
-
-
